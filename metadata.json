@@ -1,0 +1,8 @@
+{
+  "name": "KOREMA - Your Personal AI Companion",
+  "description": "An emotion-aware personal AI assistant with voice interaction, health reminders, and a responsive robot avatar.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
